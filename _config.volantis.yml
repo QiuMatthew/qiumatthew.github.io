@@ -4,6 +4,7 @@ cover:
     home: true
     archive: true
     others: true
+  layout_scheme: dock
   features:
     - name: Blog
       icon: "fa fa-blog"
@@ -48,3 +49,13 @@ sidebar:
       subtitle: aka Mashio
       jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social: true
+
+plugins:
+  parallax:
+    enable: true
+    position: fixed
+    shuffle: false
+    duration: 10000
+    fade: 1500
+    images: 
+      - https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg
