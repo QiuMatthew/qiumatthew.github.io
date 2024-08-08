@@ -1,4 +1,9 @@
 cover:
+  title: Q's Notebook
+  display:
+    home: true
+    archive: true
+    others: true
   features:
     - name: Blog
       icon: "fa fa-blog"

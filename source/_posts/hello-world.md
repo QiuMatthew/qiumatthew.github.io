@@ -2,7 +2,6 @@
 title: Hello World
 tags:
 - test
-cover: true
 ---
 
 TEST3
