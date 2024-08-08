@@ -100,10 +100,10 @@ theme: volantis
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/QiuMatthew/qiumatthew.github.io
-  branch: main
+# deploy:
+#   type: git
+#   repo: https://github.com/QiuMatthew/qiumatthew.github.io
+#   branch: main
 
 mathjax:
   tags: none # or 'ams' or 'all'
