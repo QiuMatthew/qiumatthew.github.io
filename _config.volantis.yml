@@ -1,14 +1,34 @@
 cover:
   features:
-      - name: Blog
-        icon: "fa fa-blog"
-        url: /
-      - name: Archive
-        icon: "fa fa-box-archive"
-        url: /archives/
-      - name: Friends
-        icon: "fa fa-link"
-        url: /friends/
-      - name: About
-        icon: "fa fa-info"
-        url: /about/
+    - name: Blog
+      icon: "fa fa-blog"
+      url: /
+    - name: Archive
+      icon: "fa fa-box-archive"
+      url: /archives/
+    - name: Friends
+      icon: "fa fa-link"
+      url: /friends/
+    - name: About
+      icon: "fa fa-info"
+      url: /about/
+
+navbar:
+  visiable: auto # always, auto
+  logo: # choose [img] or [icon + title]
+    img: 
+    icon: "fa fa-q"
+    title:
+  menu:
+    - name: Blog
+      icon: "fa fa-blog"
+      url: /
+    - name: Archive
+      icon: "fa fa-box-archive"
+      url: /archives/
+    - name: Friends
+      icon: "fa fa-link"
+      url: /friends/
+    - name: About
+      icon: "fa fa-info"
+      url: /about/
