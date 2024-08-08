@@ -37,3 +37,14 @@ navbar:
     - name: About
       icon: "fa fa-info"
       url: /about/
+
+sidebar:
+  widget_library:
+    blogger:
+      class: blogger
+      display: [desktop] # [desktop, mobile]
+      avatar: 
+      title: Q
+      subtitle: aka Mashio
+      jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
+      social: true
