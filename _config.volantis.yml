@@ -205,3 +205,17 @@ comments:
     theme:
       light: "light" # https://gcore.jsdelivr.net/gh/volantis-x/cdn-volantis@master/css/giscus/light.css
       dark: "dark" # https://gcore.jsdelivr.net/gh/volantis-x/cdn-volantis@master/css/giscus/dark.css
+
+pages:
+  friends:
+    layout_scheme: traditional
+
+article:
+  body:
+    meta_library:
+      updated:
+        icon: fa-solid fa-edit
+        title: "Last Edited: "
+        format: "ll"
+      share:
+
