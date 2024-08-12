@@ -184,4 +184,24 @@ site_footer:
   copyright: '[Copyright © 2024-2024 Q](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
-  
+
+
+comments:
+  service: giscus
+  # giscus
+  # https://giscus.app
+  # https://github.com/laymonage/giscus
+  giscus:
+    # ?????? yml ????????
+    repo: qiumatthew/qiumatthew.github.io
+    # repo-id: xxx
+    # category: xxx
+    # category-id: xxx
+    # mapping: "pathname"
+    # reactions-enabled: "1"
+    # emit-metadata: "0"
+    # lang: "zh-CN"
+    # ?????? yml ????????
+    theme:
+      light: "light" # https://gcore.jsdelivr.net/gh/volantis-x/cdn-volantis@master/css/giscus/light.css
+      dark: "dark" # https://gcore.jsdelivr.net/gh/volantis-x/cdn-volantis@master/css/giscus/dark.css
