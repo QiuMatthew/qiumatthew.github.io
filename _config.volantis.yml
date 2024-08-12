@@ -44,7 +44,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop] # [desktop, mobile]
-      avatar: 
+      avatar: /images/head.png
       title: Q
       subtitle: aka Mashio
       jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
