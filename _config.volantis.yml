@@ -48,8 +48,16 @@ sidebar:
       title: Q
       subtitle: aka Mashio
       jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
-      # Do not include social attribute if you want to enable social icons, probably a bug
-      #social: true
+      # Do not listen to their official document, you have to add the item detail. Set social as true of false won't work
+      social: 
+        - icon: fas fa-window-maximize
+          url: http://mattq.net
+        - icon: fas fa-envelope
+          url: mailto:uzenkyu@gmail.com
+        - icon: fab fa-github
+          url: https://github.com/qiumatthew
+        - icon: fas fa-headphones-alt
+          url: https://music.163.com/#/user/home?id=278306010
 
 plugins:
   parallax:
