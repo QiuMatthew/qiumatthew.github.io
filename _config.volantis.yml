@@ -213,9 +213,16 @@ pages:
 article:
   body:
     meta_library:
+      author:
+        avatar: /images/head.png
+        name: "Author: Q"
+      date:
+        icon: fa-solid fa-calendar-alt
+        title: "Initially Posted: "
+        format: "ll"
       updated:
         icon: fa-solid fa-edit
-        title: "Last Edited: "
+        title: "Last Updated: "
         format: "ll"
       share:
 
