@@ -187,6 +187,8 @@ site_footer:
 
 
 comments:
+  title: <i class='fa-solid fa-comments'></i> Comments
+  subtitle:
   service: giscus
   # giscus
   # https://giscus.app
