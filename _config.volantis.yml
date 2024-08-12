@@ -48,7 +48,8 @@ sidebar:
       title: Q
       subtitle: aka Mashio
       jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
-      social: true
+      # Do not include social attribute if you want to enable social icons, probably a bug
+      #social: true
 
 plugins:
   parallax:
@@ -158,3 +159,21 @@ color_scheme:
     copyright_bkg: '#21252b'
     # 夜间图片亮度
     brightness: 70%
+
+site_footer:
+  #https://volantis.js.org/v6/theme-settings/#%E8%AE%BE%E7%BD%AE%E7%BD%91%E7%AB%99%E9%A1%B5%E8%84%9A
+  # layout of footer: [aplayer, social, license, info, copyright]
+  layout: [aplayer, social, license, info, copyright]
+  social:
+    - icon: fas fa-window-maximize
+      url: http://mattq.net
+    - icon: fas fa-envelope
+      url: mailto:uzenkyu@gmail.com
+    - icon: fab fa-github
+      url: https://github.com/qiumatthew
+    - icon: fas fa-headphones-alt
+      url: https://music.163.com/#/user/home?id=278306010
+  copyright: '[Copyright � 2024-2024 Q](/)'
+  # You can add your own property here. (Support markdown, for example: br: '<br>')
+  br: '<br>'
+  
