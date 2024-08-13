@@ -32,6 +32,9 @@ navbar:
     - name: About
       icon: "fa fa-info"
       url: /about/
+    - name: Switch Mode
+      icon: "fa fa-moon"
+      toggle: darkmode
 
 sidebar:
   widget_library:
@@ -54,6 +57,7 @@ sidebar:
           url: https://music.163.com/#/user/home?id=278306010
 
 plugins:
+  # multiple cover images
   parallax:
     enable: true
     position: fixed
@@ -62,6 +66,9 @@ plugins:
     fade: 500
     images: 
       - /images/cover.jpg
+  # dark mode
+  darkmode:
+    enable: true
 
 color_scheme:
   # 通用颜色
