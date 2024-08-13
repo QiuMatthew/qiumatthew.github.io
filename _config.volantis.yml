@@ -229,3 +229,8 @@ article:
         format: "ll"
       share:
 
+# https://volantis.js.org/v6/theme-settings/#%E7%AB%99%E5%86%85%E6%90%9C%E7%B4%A2
+# need hexo-generator-json-content
+search:
+  enable: true
+  service: hexo
