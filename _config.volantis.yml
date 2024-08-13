@@ -12,9 +12,6 @@ cover:
     - name: Archive
       icon: "fa fa-box-archive"
       url: /archives/
-    - name: Friends
-      icon: "fa fa-link"
-      url: /friends/
     - name: About
       icon: "fa fa-info"
       url: /about/
@@ -32,9 +29,6 @@ navbar:
     - name: Archive
       icon: "fa fa-box-archive"
       url: /archives/
-    - name: Friends
-      icon: "fa fa-link"
-      url: /friends/
     - name: About
       icon: "fa fa-info"
       url: /about/
