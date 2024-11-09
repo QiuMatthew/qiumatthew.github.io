@@ -15,8 +15,6 @@ Miniconda is conda with only base modules, and we have to install every dependen
 
 I prefer Miniconda
 
-<!--more-->
-
 ## Installing
 ### Download
 ```
