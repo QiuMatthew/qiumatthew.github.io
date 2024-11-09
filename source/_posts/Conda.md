@@ -1,13 +1,12 @@
 ---
 title: Conda
-auther: yuran
 date: 2021-10-02 13:54:41
 categories:
-    - 技术
-    - Conda
+    - engineering
+    - python
 tags:
-    - 技术
-    - Conda
+    - engineering
+    - python
 ---
 
 ## Anaconda & Miniconda
