@@ -1,9 +1,12 @@
 ---
 title: Neovim Configuration - Zero to your Personalized Modern IDE
 date: 2024-08-16
+categories:
+- engineering
+- vim
 tags:
-  - engineering
-  - vim
+- engineering
+- vim
 ---
 
 ## What is Neovim

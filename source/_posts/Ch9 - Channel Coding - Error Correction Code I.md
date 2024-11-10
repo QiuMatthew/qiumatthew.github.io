@@ -1,9 +1,10 @@
 ---
 title: Ch 9 - Channel Coding - Error Correction Code I
 date: 2023-04-02
+category:
+- engineering
 tags:
-  - teaching
-  - information-theory
+- information-theory
 ---
 
 ## Repetition Code  

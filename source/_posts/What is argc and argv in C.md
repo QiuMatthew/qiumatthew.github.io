@@ -1,9 +1,12 @@
 ---
 title: What is argc and argv in C
 date: 2024-07-20
+categories:
+- engineering
+- cpp
 tags:
-  - engineering
-  - cpp
+- engineering
+- cpp
 ---
 
 When I started to learn C programming language in my freshman year, I was writing `int main(void)` for most of the time. And when I first encountered with `int main(int argc, char *argv[])`, I was totally confused with the arguments `argc` and `argv` .

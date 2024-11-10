@@ -2,6 +2,7 @@
 title: Ch9-Fourier Transform Properties
 date: 2021-08-12 16:24:41
 categories:
+- engineering
 tags: 
 - engineering
 - signal and system

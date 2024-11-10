@@ -1,8 +1,11 @@
 ---
 title: Concurrency, Async IO, Select, Poll and Epoll
 date: 2024-11-02
+categories:
+- engineering
 tags:
-  - engineering
+- engineering
+- concurrency
 ---
 
 ## Intro to Concurrency
