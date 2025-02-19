@@ -1,4 +1,5 @@
 ---
+title: Existentialism is a Humanism Reading Note
 date: 2025-02-19
 tags:
   - philosophy
